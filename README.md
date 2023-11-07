@@ -13,6 +13,11 @@
 3. sass 설치 'npm i sass'
 4. lenis 설치 'npm i @studio-freight/lenis'
 
+### GSAP
+
+GSAP는 "GreenSock Animation Platform"의 약자로, 웹 애니메이션 및 상호 작용을 개발하기 위한 JavaScript 애니메이션 라이브러리입니다.
+GSAP는 웹 개발자들이 웹 페이지 및 웹 애플리케이션에서 다양한 애니메이션 및 트랜지션 효과를 만들고 제어하는 데 사용됩니다.
+
 ## 트러블 슈팅
 
 <details>
