@@ -104,7 +104,7 @@ export const portText = [
     img: port1,
     code: "/",
     view: "/",
-    name: "김상* 포트폴리오",
+    name: "HEEJIN 포트폴리오",
   },
   {
     num: "02",
@@ -113,7 +113,7 @@ export const portText = [
     img: port2,
     code: "/",
     view: "/",
-    name: "천설* 포트폴리오",
+    name: "HEEJIN 포트폴리오",
   },
   {
     num: "03",
@@ -122,7 +122,7 @@ export const portText = [
     img: port3,
     code: "/",
     view: "/",
-    name: "천설* 포트폴리오",
+    name: "HEEJIN 포트폴리오",
   },
   {
     num: "04",
@@ -131,7 +131,7 @@ export const portText = [
     img: port4,
     code: "/",
     view: "/",
-    name: "이훈* 포트폴리오",
+    name: "HEEJIN 포트폴리오",
   },
   {
     num: "05",
@@ -140,7 +140,7 @@ export const portText = [
     img: port5,
     code: "/",
     view: "/",
-    name: "박준* 포트폴리오",
+    name: "HEEJIN 포트폴리오",
   },
   {
     num: "06",
@@ -149,7 +149,7 @@ export const portText = [
     img: port6,
     code: "/",
     view: "/",
-    name: "포트폴리오",
+    name: "HEEJIN 포트폴리오",
   },
   {
     num: "07",
@@ -158,7 +158,7 @@ export const portText = [
     img: port7,
     code: "/",
     view: "/",
-    name: "포트폴리오",
+    name: "HEEJIN 포트폴리오",
   },
   {
     num: "08",
@@ -167,7 +167,7 @@ export const portText = [
     img: port8,
     code: "/",
     view: "/",
-    name: "포트폴리오",
+    name: "HEEJIN 포트폴리오",
   },
   {
     num: "09",
@@ -176,7 +176,7 @@ export const portText = [
     img: port9,
     code: "/",
     view: "/",
-    name: "포트폴리오",
+    name: "HEEJIN 포트폴리오",
   },
   {
     num: "10",
@@ -185,6 +185,6 @@ export const portText = [
     img: port10,
     code: "/",
     view: "/",
-    name: "포트폴리오",
+    name: "HEEJIN 포트폴리오",
   },
 ];
