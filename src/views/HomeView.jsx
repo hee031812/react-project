@@ -14,13 +14,13 @@ const HomeView = () => {
     <>
         <Skip />
         <Header />
-        <main>
+        <Main>
           <Intro />
           <Skill />
           <Site />
           <Port />
           <Contact />
-        </main>
+        </Main>
         <Footer />
     </>
   )

@@ -28,7 +28,7 @@
     color: var( --white500);
 }
 .footer__info .left .title:hover {
-    background-color: #b6b2b2;
+    background-color: #ffffff50;
     padding-left: 10px;
     border-color: transparent;    
 }                                                                                 
@@ -71,6 +71,9 @@
     display: inline-block;
     text-transform: uppercase;
     color: var( --white500);
+}
+.right li:hover {
+    background-color: #ffffff50;
 }
 
 @media (max-width:800px){
