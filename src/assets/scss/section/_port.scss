@@ -64,7 +64,6 @@
 
 .port__item a {
     /* filter: opacity(0.5); */
-    width: 420px;
     height: 250px;
     margin-bottom: 20px;
     border-radius: 10px;
@@ -99,6 +98,17 @@
     width: 90%;
     padding: 10px 30px 10px 30px;
     background-color: #e6c9bc;
+}
+
+.port__item i {
+    border: 1px solid #000;
+    padding: 10px 50px 10px 50px;
+    margin-bottom: 50px;
+    border-radius: 5px;
+}
+
+.port__item i:hover {
+    background-color: #ffffff60;
 }
 
 .port__item.p1 {

@@ -64,7 +64,7 @@ const Port = () => {
                 className="site"
                 rel="noreferrer noopener"
               >
-                사이트 보기</a>
+              </a><i>사이트 보기</i>
             </article>
           ))}
         </div>

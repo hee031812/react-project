@@ -188,3 +188,49 @@ export const portText = [
     name: "HEEJIN 포트폴리오",
   },
 ];
+
+
+export const footerText = [
+
+  {
+    "title": "youtube",
+    "url": "https://www.youtube.com/@heejin",
+    "description": "유튜브에 오시면 더 많은 강의를 볼 수 있습니다."
+  },
+  {
+    "title": "github",
+    "url": "https://github.com/heejin",
+    "description": "깃헙에 들어오시면 모든 소스를 볼 수 있습니다."
+  },
+  {
+    "title": "tistory",
+    "url": "https://heejin.co.kr",
+    "description": "티스토리에 들어오시면 좋은 정보를 볼 수 있습니다."
+  },
+  {
+    "title": "gsap",
+    "url": "https://www.youtube.com/playlist?list=PL4UVBBIc6giL8-6jvrClimg0cFL-Muqiq",
+    "description": "GSAP를 공부하시고 오면 도움이 됩니다."
+  },
+  {
+    "title": "vite",
+    "url": "https://github.com/heejin/port2023-vite",
+    "description": "비트 강의도 곧 오픈 예정입니다."
+  },
+  {
+    "title": "react",
+    "url": "https://github.com/heejin/port2023-react",
+    "description": "리액트 강의도 곧 오픈 예정입니다."
+  },
+  {
+    "title": "vue",
+    "url": "https://github.com/heejin/port2023-vue",
+    "description": "뷰 강의도 곧 오픈 예정입니다."
+  },
+  {
+    "title": "next",
+    "url": "https://github.com/heejin/port2023-next",
+    "description": "넥스트 강의도 곧 오픈 예정입니다."
+  }
+
+]
